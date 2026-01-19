@@ -54,6 +54,11 @@ tcp
 dns
 tls
 tcp.flags.syn == 1
+http
+tcp
+dns
+tls
+tcp.flags.syn == 1
 
 ## 3️⃣ HTTP Traffic Analysis (Plain Text)
 
